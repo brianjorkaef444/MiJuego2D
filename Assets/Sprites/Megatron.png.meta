@@ -1,0 +1,3416 @@
+fileFormatVersion: 2
+guid: b07ceca51986cf74190bbbd3abd05cb7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6805803183363658279
+    second: Megatron_0
+  - first:
+      213: 3732505372136692572
+    second: Megatron_1
+  - first:
+      213: 7901214742130432406
+    second: Megatron_2
+  - first:
+      213: -6237368875658506934
+    second: Megatron_3
+  - first:
+      213: 7675903202700736535
+    second: Megatron_4
+  - first:
+      213: 7101163944305141262
+    second: Megatron_5
+  - first:
+      213: 1076110391906161745
+    second: Megatron_6
+  - first:
+      213: -8959078568375845045
+    second: Megatron_7
+  - first:
+      213: -233011127078622861
+    second: Megatron_8
+  - first:
+      213: 7877349456527030476
+    second: Megatron_9
+  - first:
+      213: 836648038795263990
+    second: Megatron_10
+  - first:
+      213: -6652706127719374629
+    second: Megatron_11
+  - first:
+      213: 3704799145940416782
+    second: Megatron_12
+  - first:
+      213: 6527815274660007140
+    second: Megatron_13
+  - first:
+      213: -153356920876621547
+    second: Megatron_14
+  - first:
+      213: -2525562608921577292
+    second: Megatron_15
+  - first:
+      213: -3364928298641574096
+    second: Megatron_16
+  - first:
+      213: 6348829709240381946
+    second: Megatron_17
+  - first:
+      213: 6827162950006095247
+    second: Megatron_18
+  - first:
+      213: 384749663989761959
+    second: Megatron_19
+  - first:
+      213: -1903721602312766879
+    second: Megatron_20
+  - first:
+      213: -2598381847081030947
+    second: Megatron_21
+  - first:
+      213: 4263682692665914138
+    second: Megatron_22
+  - first:
+      213: -7775504935665870951
+    second: Megatron_23
+  - first:
+      213: 5402382430660331264
+    second: Megatron_24
+  - first:
+      213: -7291104634659824506
+    second: Megatron_25
+  - first:
+      213: 187077808189975118
+    second: Megatron_26
+  - first:
+      213: 8311765310056174538
+    second: Megatron_27
+  - first:
+      213: -812581750021225815
+    second: Megatron_28
+  - first:
+      213: 3592181505572402072
+    second: Megatron_29
+  - first:
+      213: 2123100460702594551
+    second: Megatron_30
+  - first:
+      213: 2774936396793412
+    second: Megatron_31
+  - first:
+      213: 2037597480741718351
+    second: Megatron_32
+  - first:
+      213: -7680074386036579073
+    second: Megatron_33
+  - first:
+      213: -6313322867712315365
+    second: Megatron_34
+  - first:
+      213: 3385248706548200782
+    second: Megatron_35
+  - first:
+      213: 4927172838284053402
+    second: Megatron_36
+  - first:
+      213: -3829689008621640105
+    second: Megatron_37
+  - first:
+      213: -8611151684051982952
+    second: Megatron_38
+  - first:
+      213: 5653019580894959282
+    second: Megatron_39
+  - first:
+      213: 4387053899769847998
+    second: Megatron_40
+  - first:
+      213: 519586034888777561
+    second: Megatron_41
+  - first:
+      213: -6729090721258909551
+    second: Megatron_42
+  - first:
+      213: -5473766537981491360
+    second: Megatron_43
+  - first:
+      213: 977192334017394591
+    second: Megatron_44
+  - first:
+      213: 3615984073854447570
+    second: Megatron_45
+  - first:
+      213: 8081301554874351273
+    second: Megatron_46
+  - first:
+      213: 174610790108594531
+    second: Megatron_47
+  - first:
+      213: 4274793229112884454
+    second: Megatron_48
+  - first:
+      213: -3945142168583319275
+    second: Megatron_49
+  - first:
+      213: -8588353728190592236
+    second: Megatron_50
+  - first:
+      213: 254261210241076355
+    second: Megatron_51
+  - first:
+      213: -2449815239078893336
+    second: Megatron_52
+  - first:
+      213: 7958943025010645367
+    second: Megatron_53
+  - first:
+      213: 5632546291153942851
+    second: Megatron_54
+  - first:
+      213: 6736347952204236204
+    second: Megatron_55
+  - first:
+      213: 6329646232229089987
+    second: Megatron_56
+  - first:
+      213: 5650714840705672771
+    second: Megatron_57
+  - first:
+      213: 4509288447677093423
+    second: Megatron_58
+  - first:
+      213: -5085173202145256248
+    second: Megatron_59
+  - first:
+      213: 3462243073862780344
+    second: Megatron_60
+  - first:
+      213: -4661480933625443548
+    second: Megatron_61
+  - first:
+      213: -8692321028609142286
+    second: Megatron_62
+  - first:
+      213: -5986146309665769
+    second: Megatron_63
+  - first:
+      213: -7292259173948950242
+    second: Megatron_64
+  - first:
+      213: 1337947209043643766
+    second: Megatron_65
+  - first:
+      213: 2265952696117275212
+    second: Megatron_66
+  - first:
+      213: 2166199088524904398
+    second: Megatron_67
+  - first:
+      213: -7603388294779130734
+    second: Megatron_68
+  - first:
+      213: 7478894596725453941
+    second: Megatron_69
+  - first:
+      213: 4803005022136057584
+    second: Megatron_70
+  - first:
+      213: -6049522604173145716
+    second: Megatron_71
+  - first:
+      213: -2937717179510695477
+    second: Megatron_72
+  - first:
+      213: 4748559373107049619
+    second: Megatron_73
+  - first:
+      213: 147823254000173510
+    second: Megatron_74
+  - first:
+      213: 2579275901316998125
+    second: Megatron_75
+  - first:
+      213: -7367201722360356123
+    second: Megatron_76
+  - first:
+      213: 5576750259454043319
+    second: Megatron_77
+  - first:
+      213: -2491007640035222921
+    second: Megatron_78
+  - first:
+      213: -90796089526191424
+    second: Megatron_79
+  - first:
+      213: 8082339365436874079
+    second: Megatron_80
+  - first:
+      213: 6417992970783351298
+    second: Megatron_81
+  - first:
+      213: -7806659206762654598
+    second: Megatron_82
+  - first:
+      213: -6500601566561751149
+    second: Megatron_83
+  - first:
+      213: -6360677563925273187
+    second: Megatron_84
+  - first:
+      213: -7535576729348358967
+    second: Megatron_85
+  - first:
+      213: 2740816661276460921
+    second: Megatron_86
+  - first:
+      213: 860757718853703731
+    second: Megatron_87
+  - first:
+      213: -3693498380062583003
+    second: Megatron_88
+  - first:
+      213: 200078168534769168
+    second: Megatron_89
+  - first:
+      213: -3596931795664068447
+    second: Megatron_90
+  - first:
+      213: 1280713764073271084
+    second: Megatron_91
+  - first:
+      213: -3044057083101247479
+    second: Megatron_92
+  - first:
+      213: 6381762603888427816
+    second: Megatron_93
+  - first:
+      213: -3971780853355872384
+    second: Megatron_94
+  - first:
+      213: 8093257696113807177
+    second: Megatron_95
+  - first:
+      213: 6653198036527188967
+    second: Megatron_96
+  - first:
+      213: 3394491340720322499
+    second: Megatron_97
+  - first:
+      213: -8941509787723931012
+    second: Megatron_98
+  - first:
+      213: -1437226503593244792
+    second: Megatron_99
+  - first:
+      213: 3021473611753538378
+    second: Megatron_100
+  - first:
+      213: -8495513689764342187
+    second: Megatron_101
+  - first:
+      213: 4782376000700319929
+    second: Megatron_102
+  - first:
+      213: -6474060800165506305
+    second: Megatron_103
+  - first:
+      213: -2984868029088841004
+    second: Megatron_104
+  - first:
+      213: -955176399902226358
+    second: Megatron_105
+  - first:
+      213: -2374992489520565430
+    second: Megatron_106
+  - first:
+      213: 7885663089498318815
+    second: Megatron_107
+  - first:
+      213: -8603302535601407423
+    second: Megatron_108
+  - first:
+      213: 4319656220509256308
+    second: Megatron_109
+  - first:
+      213: -9136251818053577264
+    second: Megatron_110
+  - first:
+      213: -7639289494372315292
+    second: Megatron_111
+  - first:
+      213: -9212309553293715004
+    second: Megatron_112
+  - first:
+      213: -7049255330687655167
+    second: Megatron_113
+  - first:
+      213: -2338354609558579114
+    second: Megatron_114
+  - first:
+      213: 50930070516442644
+    second: Megatron_115
+  - first:
+      213: -3322749882040750055
+    second: Megatron_116
+  - first:
+      213: -453215959766287233
+    second: Megatron_117
+  - first:
+      213: 7875865926421663130
+    second: Megatron_118
+  - first:
+      213: -8761628150375528873
+    second: Megatron_119
+  - first:
+      213: -8313613450003395882
+    second: Megatron_120
+  - first:
+      213: -851640808155809415
+    second: Megatron_121
+  - first:
+      213: -1429445094131573319
+    second: Megatron_122
+  - first:
+      213: -1462418100269601805
+    second: Megatron_123
+  - first:
+      213: -5064542984698269431
+    second: Megatron_124
+  - first:
+      213: -8575842816259342328
+    second: Megatron_125
+  - first:
+      213: 6484772285434475015
+    second: Megatron_126
+  - first:
+      213: -4742553710914028957
+    second: Megatron_127
+  - first:
+      213: 4875719762989214848
+    second: Megatron_128
+  - first:
+      213: 2136700061495706044
+    second: Megatron_129
+  - first:
+      213: -8639025604477691140
+    second: Megatron_130
+  - first:
+      213: 8117081926480927682
+    second: Megatron_131
+  - first:
+      213: 3540402307087514635
+    second: Megatron_132
+  - first:
+      213: -7477880279590981064
+    second: Megatron_133
+  - first:
+      213: 7659683049457421309
+    second: Megatron_134
+  - first:
+      213: -8232542828748716799
+    second: Megatron_135
+  - first:
+      213: 6876710301847666649
+    second: Megatron_136
+  - first:
+      213: -8059749685530493714
+    second: Megatron_137
+  - first:
+      213: -3555696834915349713
+    second: Megatron_138
+  - first:
+      213: -4675089564794459644
+    second: Megatron_139
+  - first:
+      213: -6428986594124427083
+    second: Megatron_140
+  - first:
+      213: -4741569866485671579
+    second: Megatron_141
+  - first:
+      213: 8483923310483198530
+    second: Megatron_142
+  - first:
+      213: 23078732350965374
+    second: Megatron_143
+  - first:
+      213: 5095051218858392297
+    second: Megatron_144
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Megatron_0
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 298
+        width: 42
+        height: 52
+      alignment: 9
+      pivot: {x: 5.062109, y: -0.26580632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dde26c301eec81a0800000000000000
+      internalID: -6805803183363658279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_1
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 508
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bd17c3cd58cc330800000000000000
+      internalID: 3732505372136692572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_3
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 248
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d0c49fd0a6079a0800000000000000
+      internalID: -6237368875658506934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_7
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 399
+        width: 45
+        height: 25
+      alignment: 9
+      pivot: {x: 0.7403455, y: 9.512939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f74216285faa380800000000000000
+      internalID: -8959078568375845045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 512
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a78f89e7c7e65500800000000000000
+      internalID: 384749663989761959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 507
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: -1.5397289, y: -1.3628296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0070258923e19fa40800000000000000
+      internalID: 5402382430660331264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_30
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 508
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f575aece94c67d10800000000000000
+      internalID: 2123100460702594551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_31
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 510
+        width: 37
+        height: 32
+      alignment: 9
+      pivot: {x: 0.22934063, y: 0.6540668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446843a3acbd90000800000000000000
+      internalID: 2774936396793412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_32
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 514
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 0, z: 8, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4947d2fc10074c10800000000000000
+      internalID: 2037597480741718351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_33
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 515
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4a6b36905ea6590800000000000000
+      internalID: -7680074386036579073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_34
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 514
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1038ad1d429268a0800000000000000
+      internalID: -6313322867712315365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_35
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 515
+        width: 26
+        height: 24
+      alignment: 9
+      pivot: {x: 0.20146942, y: 0.467659}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45f72643c1dafe20800000000000000
+      internalID: 3385248706548200782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_36
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 511
+        width: 31
+        height: 31
+      alignment: 9
+      pivot: {x: 0.3372527, y: 0.47496182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bcfd45795d06440800000000000000
+      internalID: 4927172838284053402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_37
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 512
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756a3e023263adac0800000000000000
+      internalID: -3829689008621640105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_38
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 512
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895231dca2b0f7880800000000000000
+      internalID: -8611151684051982952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_39
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 472
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6529b9b5f837e40800000000000000
+      internalID: 5653019580894959282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_40
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 392
+        width: 38
+        height: 32
+      alignment: 9
+      pivot: {x: 1.1547852, y: 1.434676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0264a3742f1ec30800000000000000
+      internalID: 4387053899769847998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_41
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 469
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f9ccfeeb0f53700800000000000000
+      internalID: 519586034888777561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 469
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1905cf924a77d92a0800000000000000
+      internalID: -6729090721258909551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_43
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 473
+        width: 46
+        height: 26
+      alignment: 9
+      pivot: {x: 0.2424994, y: 0.67826843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0678130c5564904b0800000000000000
+      internalID: -5473766537981491360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_44
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 514
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97775a104faf8d00800000000000000
+      internalID: 977192334017394591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_45
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 474
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df609b5b5e8e2230800000000000000
+      internalID: 3615984073854447570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_46
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 475
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aef81592fc862070800000000000000
+      internalID: 8081301554874351273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_47
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 473
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3618f56a6975c6200800000000000000
+      internalID: 174610790108594531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_48
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 472
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecb4850bcd135b30800000000000000
+      internalID: 4274793229112884454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 475
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5115d25991a0049c0800000000000000
+      internalID: -3945142168583319275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_50
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 476
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b4cc989c900d880800000000000000
+      internalID: -8588353728190592236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_51
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 474
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c849c3931578300800000000000000
+      internalID: 254261210241076355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_52
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 473
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e82d5d0502800ed0800000000000000
+      internalID: -2449815239078893336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_53
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 469
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77915515388d37e60800000000000000
+      internalID: 7958943025010645367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_54
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 474
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349bc216203da2e40800000000000000
+      internalID: 5632546291153942851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_55
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 395
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5409695c05c7d50800000000000000
+      internalID: 6736347952204236204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_56
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 393
+        width: 30
+        height: 35
+      alignment: 9
+      pivot: {x: -0.52423096, y: 0.6945254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c297e956bb67d750800000000000000
+      internalID: 6329646232229089987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_57
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 431
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3462a47753f5b6e40800000000000000
+      internalID: 5650714840705672771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_58
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 428
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26d091b3f5349e30800000000000000
+      internalID: 4509288447677093423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_59
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 434
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccdbc04ae5dd69b0800000000000000
+      internalID: -5085173202145256248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_60
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 433
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5c5af5bbb5c0030800000000000000
+      internalID: 3462243073862780344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_61
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 433
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bcff7d9c71f4fb0800000000000000
+      internalID: -4661480933625443548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_62
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 431
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f11810141cae5780800000000000000
+      internalID: -8692321028609142286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_63
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 429
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c83a3b1abbaeff0800000000000000
+      internalID: -5986146309665769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_64
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 426
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1970b6dae0bcca90800000000000000
+      internalID: -7292259173948950242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_65
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 432
+        width: 60
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4999995, y: 0.75035965}
+      border: {x: 16, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d854bd5e7519210800000000000000
+      internalID: 1337947209043643766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_66
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 437
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 0, z: 10, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4aa8e9b8f7427f10800000000000000
+      internalID: 2265952696117275212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_67
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 438
+        width: 36
+        height: 28
+      alignment: 9
+      pivot: {x: -0.5252816, y: 0.8218907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec74d401892ef0e10800000000000000
+      internalID: 2166199088524904398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_68
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 467
+        width: 32
+        height: 34
+      alignment: 9
+      pivot: {x: 0.6251793, y: 1.2363515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ca35061a65b7690800000000000000
+      internalID: -7603388294779130734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_69
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 395
+        width: 37
+        height: 33
+      alignment: 9
+      pivot: {x: 0.79641926, y: 0.7223149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574b866c20f5ac760800000000000000
+      internalID: 7478894596725453941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_70
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 395
+        width: 42
+        height: 26
+      alignment: 9
+      pivot: {x: 0.66690636, y: 1.8095739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe36d6ce93b7a240800000000000000
+      internalID: 4803005022136057584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_71
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 393
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8940954e37cb0ca0800000000000000
+      internalID: -6049522604173145716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_72
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 391
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9d3b83ac12b37d0800000000000000
+      internalID: -2937717179510695477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_73
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 391
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394b5e4479546e140800000000000000
+      internalID: 4748559373107049619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_74
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 390
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c10930677c2d0200800000000000000
+      internalID: 147823254000173510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_75
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 391
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3a9b344cd6bc320800000000000000
+      internalID: 2579275901316998125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_76
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 391
+        width: 49
+        height: 37
+      alignment: 9
+      pivot: {x: -0.34811592, y: 0.68276006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2a01e011172c990800000000000000
+      internalID: -7367201722360356123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_77
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 394
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b463d760d8946d40800000000000000
+      internalID: 5576750259454043319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_78
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 353
+        width: 63
+        height: 36
+      alignment: 9
+      pivot: {x: 0.268612, y: 0.5952776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a9ae2dfb92e6dd0800000000000000
+      internalID: -2491007640035222921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_79
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 394
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cafbc8007d6dbef0800000000000000
+      internalID: -90796089526191424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_80
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 355
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d550fa4dc3a2070800000000000000
+      internalID: 8082339365436874079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_81
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 351
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202ee7a5a9a411950800000000000000
+      internalID: 6417992970783351298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_82
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 351
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74116a10dc29a390800000000000000
+      internalID: -7806659206762654598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_83
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 352
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f2dbe115939c5a0800000000000000
+      internalID: -6500601566561751149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_84
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 352
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95ef67b4755ab7a0800000000000000
+      internalID: -6360677563925273187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_85
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 352
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccbd7dc3e04c6790800000000000000
+      internalID: -7535576729348358967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_86
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 352
+        width: 34
+        height: 32
+      alignment: 9
+      pivot: {x: 1.1351827, y: 1.5212555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9770bd16b36590620800000000000000
+      internalID: 2740816661276460921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_87
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 352
+        width: 40
+        height: 32
+      alignment: 9
+      pivot: {x: 0.79836875, y: 1.6362711}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33853f5b59602fb00800000000000000
+      internalID: 860757718853703731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_88
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 296
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52793e5dace0ebcc0800000000000000
+      internalID: -3693498380062583003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_89
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 356
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e53d2c802d6c200800000000000000
+      internalID: 200078168534769168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_90
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 357
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0a226d691251ec0800000000000000
+      internalID: -3596931795664068447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_91
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 432
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f6a86026206c110800000000000000
+      internalID: 1280713764073271084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_92
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 356
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9080db5063651c5d0800000000000000
+      internalID: -3044057083101247479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_93
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 300
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82344a5b643909850800000000000000
+      internalID: 6381762603888427816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_94
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 295
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f76067b5661e8c0800000000000000
+      internalID: -3971780853355872384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_95
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 253
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f4f84aef6015070800000000000000
+      internalID: 8093257696113807177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_96
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 300
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb87833d58e45c50800000000000000
+      internalID: 6653198036527188967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_97
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 298
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c736ccb3e7ab1f20800000000000000
+      internalID: 3394491340720322499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_98
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 297
+        width: 61
+        height: 49
+      alignment: 9
+      pivot: {x: -1.1523727, y: 1.7598739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c726903e83069e380800000000000000
+      internalID: -8941509787723931012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_99
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 300
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8874c871c12fd0ce0800000000000000
+      internalID: -1437226503593244792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_100
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 291
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4349cecd3e6ee920800000000000000
+      internalID: 3021473611753538378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_101
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 299
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556d0217f4fd91a80800000000000000
+      internalID: -8495513689764342187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_102
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 250
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8881072a96e5240800000000000000
+      internalID: 4782376000700319929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_103
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 250
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff29ad7d0048726a0800000000000000
+      internalID: -6474060800165506305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_104
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 356
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d24db0975e9396d0800000000000000
+      internalID: -2984868029088841004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_105
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 250
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48cdf100288eb2f0800000000000000
+      internalID: -955176399902226358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_106
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 246
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43f7edf9e45a0fd0800000000000000
+      internalID: -2374992489520565430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_107
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 243
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7e4f3ccc08f6d60800000000000000
+      internalID: 7885663089498318815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_108
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 242
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ab2461dedea9880800000000000000
+      internalID: -8603302535601407423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_109
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 244
+        width: 48
+        height: 40
+      alignment: 9
+      pivot: {x: 0.7381937, y: 0.8952252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ab24f227082fb30800000000000000
+      internalID: 4319656220509256308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_110
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 246
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5566e9063853180800000000000000
+      internalID: -9136251818053577264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_111
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 244
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f8097fdaacbf590800000000000000
+      internalID: -7639289494372315292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_112
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 247
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c99dfa254d472080800000000000000
+      internalID: -9212309553293715004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_113
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 45
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103655310a30c2e90800000000000000
+      internalID: -7049255330687655167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_114
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 36
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6581d5a2fde7c8fd0800000000000000
+      internalID: -2338354609558579114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_115
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 36
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416a48911a0f4b000800000000000000
+      internalID: 50930070516442644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_116
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 45
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9107d73469833e1d0800000000000000
+      internalID: -3322749882040750055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_117
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 45
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cb79f5c7ad5b9f0800000000000000
+      internalID: -453215959766287233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_118
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 36
+        width: 48
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d47faf452bc4d60800000000000000
+      internalID: 7875865926421663130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_119
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 45
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756cdca4e91786680800000000000000
+      internalID: -8761628150375528873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_120
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 36
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da43a85d9c10ac80800000000000000
+      internalID: -8313613450003395882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_121
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 45
+        width: 37
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97975a9723d5e24f0800000000000000
+      internalID: -851640808155809415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_122
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 36
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bddc5aa247992ce0800000000000000
+      internalID: -1429445094131573319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_123
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 36
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb245c6c7274bbe0800000000000000
+      internalID: -1462418100269601805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_124
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 9
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901fc5f0df027b9b0800000000000000
+      internalID: -5064542984698269431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_125
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 36
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800c647356c7cf880800000000000000
+      internalID: -8575842816259342328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_126
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 36
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702be9a290a8ef950800000000000000
+      internalID: 6484772285434475015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_127
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 36
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a32cce6801f2eb0800000000000000
+      internalID: -4742553710914028957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_128
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 36
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ce251ba490aa340800000000000000
+      internalID: 4875719762989214848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_129
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 18
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1c10d926517ad10800000000000000
+      internalID: 2136700061495706044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_130
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa5a97fbf30c1880800000000000000
+      internalID: -8639025604477691140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_131
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 18
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb93a8810ba5a070800000000000000
+      internalID: 8117081926480927682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_132
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 9
+        width: 37
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cbce3f329022130800000000000000
+      internalID: 3540402307087514635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_133
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 18
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832b416518b393890800000000000000
+      internalID: -7477880279590981064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_134
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 18
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb8df69629ac4a60800000000000000
+      internalID: 7659683049457421309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_135
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 9
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1054e364ae120cd80800000000000000
+      internalID: -8232542828748716799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_136
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 18
+        width: 37
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df36ecc59bfe6f50800000000000000
+      internalID: 6876710301847666649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_137
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 9
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec73670d54062090800000000000000
+      internalID: -8059749685530493714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_138
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 9
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bc3e94190a7aec0800000000000000
+      internalID: -3555696834915349713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_139
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 9
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a6a4d7fcebe1fb0800000000000000
+      internalID: -4675089564794459644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_140
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 9
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0177f31c6a7c6a0800000000000000
+      internalID: -6428986594124427083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_141
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 9
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569dc6e045f823eb0800000000000000
+      internalID: -4741569866485671579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_142
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 9
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242d1071d43fcb570800000000000000
+      internalID: 8483923310483198530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_143
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 9
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7645ab1cfdf15000800000000000000
+      internalID: 23078732350965374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_144
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 9
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eab97cb61245b640800000000000000
+      internalID: 5095051218858392297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_2
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 397
+        width: 40
+        height: 27
+      alignment: 9
+      pivot: {x: 21.824743, y: -31.420845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3f91b86c622324a869490d715e86ab
+      internalID: 7901214742130432406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megatron_4
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 242
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0b3c0a8c31635469f376df8c84a3eb
+      internalID: 7675903202700736535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 99ab785ef6a23e44ab13081ac7cbaf57
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Megatron_0: -6805803183363658279
+      Megatron_1: 3732505372136692572
+      Megatron_10: 836648038795263990
+      Megatron_100: 3021473611753538378
+      Megatron_101: -8495513689764342187
+      Megatron_102: 4782376000700319929
+      Megatron_103: -6474060800165506305
+      Megatron_104: -2984868029088841004
+      Megatron_105: -955176399902226358
+      Megatron_106: -2374992489520565430
+      Megatron_107: 7885663089498318815
+      Megatron_108: -8603302535601407423
+      Megatron_109: 4319656220509256308
+      Megatron_11: -6652706127719374629
+      Megatron_110: -9136251818053577264
+      Megatron_111: -7639289494372315292
+      Megatron_112: -9212309553293715004
+      Megatron_113: -7049255330687655167
+      Megatron_114: -2338354609558579114
+      Megatron_115: 50930070516442644
+      Megatron_116: -3322749882040750055
+      Megatron_117: -453215959766287233
+      Megatron_118: 7875865926421663130
+      Megatron_119: -8761628150375528873
+      Megatron_12: 3704799145940416782
+      Megatron_120: -8313613450003395882
+      Megatron_121: -851640808155809415
+      Megatron_122: -1429445094131573319
+      Megatron_123: -1462418100269601805
+      Megatron_124: -5064542984698269431
+      Megatron_125: -8575842816259342328
+      Megatron_126: 6484772285434475015
+      Megatron_127: -4742553710914028957
+      Megatron_128: 4875719762989214848
+      Megatron_129: 2136700061495706044
+      Megatron_13: 6527815274660007140
+      Megatron_130: -8639025604477691140
+      Megatron_131: 8117081926480927682
+      Megatron_132: 3540402307087514635
+      Megatron_133: -7477880279590981064
+      Megatron_134: 7659683049457421309
+      Megatron_135: -8232542828748716799
+      Megatron_136: 6876710301847666649
+      Megatron_137: -8059749685530493714
+      Megatron_138: -3555696834915349713
+      Megatron_139: -4675089564794459644
+      Megatron_14: -153356920876621547
+      Megatron_140: -6428986594124427083
+      Megatron_141: -4741569866485671579
+      Megatron_142: 8483923310483198530
+      Megatron_143: 23078732350965374
+      Megatron_144: 5095051218858392297
+      Megatron_15: -2525562608921577292
+      Megatron_16: -3364928298641574096
+      Megatron_17: 6348829709240381946
+      Megatron_18: 6827162950006095247
+      Megatron_19: 384749663989761959
+      Megatron_2: 7901214742130432406
+      Megatron_20: -1903721602312766879
+      Megatron_21: -2598381847081030947
+      Megatron_22: 4263682692665914138
+      Megatron_23: -7775504935665870951
+      Megatron_24: 5402382430660331264
+      Megatron_25: -7291104634659824506
+      Megatron_26: 187077808189975118
+      Megatron_27: 8311765310056174538
+      Megatron_28: -812581750021225815
+      Megatron_29: 3592181505572402072
+      Megatron_3: -6237368875658506934
+      Megatron_30: 2123100460702594551
+      Megatron_31: 2774936396793412
+      Megatron_32: 2037597480741718351
+      Megatron_33: -7680074386036579073
+      Megatron_34: -6313322867712315365
+      Megatron_35: 3385248706548200782
+      Megatron_36: 4927172838284053402
+      Megatron_37: -3829689008621640105
+      Megatron_38: -8611151684051982952
+      Megatron_39: 5653019580894959282
+      Megatron_4: 7675903202700736535
+      Megatron_40: 4387053899769847998
+      Megatron_41: 519586034888777561
+      Megatron_42: -6729090721258909551
+      Megatron_43: -5473766537981491360
+      Megatron_44: 977192334017394591
+      Megatron_45: 3615984073854447570
+      Megatron_46: 8081301554874351273
+      Megatron_47: 174610790108594531
+      Megatron_48: 4274793229112884454
+      Megatron_49: -3945142168583319275
+      Megatron_5: 7101163944305141262
+      Megatron_50: -8588353728190592236
+      Megatron_51: 254261210241076355
+      Megatron_52: -2449815239078893336
+      Megatron_53: 7958943025010645367
+      Megatron_54: 5632546291153942851
+      Megatron_55: 6736347952204236204
+      Megatron_56: 6329646232229089987
+      Megatron_57: 5650714840705672771
+      Megatron_58: 4509288447677093423
+      Megatron_59: -5085173202145256248
+      Megatron_6: 1076110391906161745
+      Megatron_60: 3462243073862780344
+      Megatron_61: -4661480933625443548
+      Megatron_62: -8692321028609142286
+      Megatron_63: -5986146309665769
+      Megatron_64: -7292259173948950242
+      Megatron_65: 1337947209043643766
+      Megatron_66: 2265952696117275212
+      Megatron_67: 2166199088524904398
+      Megatron_68: -7603388294779130734
+      Megatron_69: 7478894596725453941
+      Megatron_7: -8959078568375845045
+      Megatron_70: 4803005022136057584
+      Megatron_71: -6049522604173145716
+      Megatron_72: -2937717179510695477
+      Megatron_73: 4748559373107049619
+      Megatron_74: 147823254000173510
+      Megatron_75: 2579275901316998125
+      Megatron_76: -7367201722360356123
+      Megatron_77: 5576750259454043319
+      Megatron_78: -2491007640035222921
+      Megatron_79: -90796089526191424
+      Megatron_8: -233011127078622861
+      Megatron_80: 8082339365436874079
+      Megatron_81: 6417992970783351298
+      Megatron_82: -7806659206762654598
+      Megatron_83: -6500601566561751149
+      Megatron_84: -6360677563925273187
+      Megatron_85: -7535576729348358967
+      Megatron_86: 2740816661276460921
+      Megatron_87: 860757718853703731
+      Megatron_88: -3693498380062583003
+      Megatron_89: 200078168534769168
+      Megatron_9: 7877349456527030476
+      Megatron_90: -3596931795664068447
+      Megatron_91: 1280713764073271084
+      Megatron_92: -3044057083101247479
+      Megatron_93: 6381762603888427816
+      Megatron_94: -3971780853355872384
+      Megatron_95: 8093257696113807177
+      Megatron_96: 6653198036527188967
+      Megatron_97: 3394491340720322499
+      Megatron_98: -8941509787723931012
+      Megatron_99: -1437226503593244792
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
