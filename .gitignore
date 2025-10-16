@@ -47,3 +47,7 @@ ExportedObj/
 
 # Visual Studio Code
 .vscode/
+
+# Ignorar archivos grandes de Firebase
+Assets/Firebase/Plugins/x86_64/*.so
+Assets/Firebase/Plugins/x86_64/*.bundle
