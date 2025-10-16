@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895503605285",
+    "project_id": "kirby2d-8c426",
+    "storage_bucket": "kirby2d-8c426.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895503605285:android:0848b0d3a0d715f7ce29cc",
+        "android_client_info": {
+          "package_name": "com.brianolvera.kirby2d"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL4-rCvWcaIM_mZosDRvmcqiizu9tZONc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
